@@ -1,5 +1,5 @@
 @echo off
-echo> README.txt only for ios 17.4 and 17.4.1 (not beta) and you need python 3.12 or later (you need python to run the EUEnabler ) and you need git (you need git for the installer)
+echo> README.txt only for ios 17.4 and 17.4.1 (not beta) and you need python 3.12 or later (you need python to run the EUEnabler and for the installer ) and you need git (you need git for the installer)
 start README.txt
 echo press_enter_if_you_have_git_and_python
 pause
